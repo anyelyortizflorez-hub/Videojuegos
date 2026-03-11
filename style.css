@@ -12,3 +12,4 @@
     .card-genre { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.14em; color: #7aadd8; margin-bottom: 0.4rem; }
     .card-title { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 600; color: #2c3e50; margin-bottom: 0.6rem; }
     .card-desc { font-size: 0.85rem; font-weight: 300; color: #6b8fa8; line-height: 1.7; }
+    .card-rating { margin-top: 1rem; font-size: 0.9rem; color: #7aadd8; letter-spacing: 0.05em; }
